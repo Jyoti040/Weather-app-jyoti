@@ -11,10 +11,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@407&display=swap');
 button{
     width: 3rem;
-    heigth:4rem;
+    height:4rem;
 }
 body{
     color:black;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -78,7 +80,7 @@ input
     padding-bottom:5px;
     color:white;
     font-family:Poppins;
-    text-color:white;
+    color:white;
     font-size:2rem;
 }
 input::placeholder
@@ -108,14 +110,14 @@ button
 }
 #location{ 
   text-align:center;
-  font-size:4.5rem;
+  font-size:4rem;
   color:white;
   margin-top:3rem;
   font-family:'Comfortaa';
 }
 #date{
 text-align:center;
-  font-size:2.5rem;
+  font-size:2rem;
   color:white;
   margin-top:1em;
 }
