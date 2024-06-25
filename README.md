@@ -1,6 +1,6 @@
 ## Weather App
 
-![alt text](images/frontPage.png)
+![alt text](src/images/frontPage.png)
 
 A responsive and dynamic weather application that fetches and displays real-time weather data using HTML, CSS, and JavaScript.
 
